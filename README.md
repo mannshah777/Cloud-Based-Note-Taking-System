@@ -1,1 +1,1 @@
-# Cloud-Based-Note-Taking-System
+Created a we application that enables users to manage notes securely with cloud storage and Docker-based deployment.
